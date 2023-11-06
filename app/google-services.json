@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "200849968622",
+    "firebase_url": "https://aniflix-958d2-default-rtdb.firebaseio.com",
+    "project_id": "aniflix-958d2",
+    "storage_bucket": "aniflix-958d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200849968622:android:55bbc8fa3c9d08af76d2ff",
+        "android_client_info": {
+          "package_name": "com.polytechnic.aniflix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHOiuHWLbomwphRYZl8HuvjmpCtCYihPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

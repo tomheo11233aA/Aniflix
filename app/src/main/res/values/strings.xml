@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aniflix</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_favorite">Favorite</string>
+    <string name="nav_history">History</string>
+
+    <string name="movie_hint">Name…</string>
+
+    <string name="splash_text">Ứng dụng xem Anime chất lượng cao</string>
+    <string name="aniflix">Aniflix</string>
+</resources>
